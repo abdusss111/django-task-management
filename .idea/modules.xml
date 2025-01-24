@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/back.iml" filepath="$PROJECT_DIR$/.idea/back.iml" />
-      <module fileurl="file://$USER_HOME$/Desktop/code/nFactorial stage 2/back/demo/.idea/demo.iml" filepath="$USER_HOME$/Desktop/code/nFactorial stage 2/back/demo/.idea/demo.iml" />
     </modules>
   </component>
 </project>
